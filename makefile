@@ -6,6 +6,9 @@ setup:
 	$(python) -m pip install --upgrade pip
 	$(pip) install -r requirements.txt
 
+dvc:
+	venv/Scripts/dvc pull
+
 run:
 	$(python) main.py
 
