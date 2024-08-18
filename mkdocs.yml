@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: Insurance Cross Sell Prediction
+site_description: A machine learning projects.
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: white
+  font:
+    text: Work Sans
+    code: Space Mono
+  features:
+    - navigation.instant
+    - toc.integrate
+
+nav:
+  - Home: index.md
+
+extra_css:
+  - css/extra.css

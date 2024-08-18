@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# Insurance Cross Sell Prediction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## **Project setup**
+Now, set up your project by following these steps:
 
-## Commands
+Create a virtual environment:
+```bash
+python3 -m venv venv
+```
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Activate the virtual environment:
 
-## Project layout
+- For Linux/MacOS:
+```bash
+source venv/bin/activate
+```
+- For Command Prompt:
+```bash
+.\venv\Scripts\activate
+```
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Install the initial required packages:
+```bash
+pip install -r requirements.txt
+```
