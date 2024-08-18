@@ -1,0 +1,18 @@
+[{
+    "Gender": "Female",
+    "Age": 46,
+    "HasDrivingLicense": 1,
+    "RegionID": 21.0,
+    "Switch": 0,
+    "PastAccident": "Yes",
+    "AnnualPremium": 2305.40
+},
+{
+    "Gender": "Male",
+    "Age": 46,
+    "HasDrivingLicense": 1,
+    "RegionID": 21.0,
+    "Switch": -1,
+    "PastAccident": "Unknown",
+    "AnnualPremium": 1650.60
+}]

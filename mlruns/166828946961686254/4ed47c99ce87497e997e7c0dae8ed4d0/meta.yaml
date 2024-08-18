@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/trial/mlruns/166828946961686254/4ed47c99ce87497e997e7c0dae8ed4d0/artifacts
+end_time: 1723545999994
+entry_point_name: ''
+experiment_id: '166828946961686254'
+lifecycle_stage: active
+run_id: 4ed47c99ce87497e997e7c0dae8ed4d0
+run_name: whimsical-swan-721
+run_uuid: 4ed47c99ce87497e997e7c0dae8ed4d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723545993854
+status: 3
+tags: []
+user_id: prsdm

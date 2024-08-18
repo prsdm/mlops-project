@@ -1,0 +1,29 @@
+data: 
+  train_path: data/train.csv
+  test_path: data/test.csv
+  future_path: data/latest.csv
+
+train:
+  test_size: 0.2
+  random_state: 42
+  shuffle: true
+
+model:
+  name: DecisionTreeClassifier
+  params:
+    criterion: entropy
+    max_depth: null
+  store_path: models/
+
+  # name: GradientBoostingClassifier
+  # params:
+  #   max_depth: null
+  #   n_estimators: 10
+  # store_path: models/
+
+  # name: RandomForestClassifier
+  # params:
+  #   n_estimators: 50
+  #   max_depth: 10
+  #   random_state: 42
+  # store_path: models/

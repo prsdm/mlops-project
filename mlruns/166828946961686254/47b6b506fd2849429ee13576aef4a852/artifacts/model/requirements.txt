@@ -1,0 +1,9 @@
+mlflow==2.14.3
+cloudpickle==3.0.0
+imbalanced-learn==0.12.3
+numpy==1.26.4
+packaging==24.1
+psutil==6.0.0
+pyyaml==6.0.1
+scikit-learn==1.5.1
+scipy==1.14.0

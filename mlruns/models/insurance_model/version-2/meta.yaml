@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1722771051091
+current_stage: None
+description: null
+last_updated_timestamp: 1722771051091
+name: insurance_model
+run_id: f0865d7fcb6544cc83a085096180cf15
+run_link: null
+source: file:///C:/Users/prsdm/OneDrive/Desktop/trial/mlruns/166828946961686254/f0865d7fcb6544cc83a085096180cf15/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/prsdm/OneDrive/Desktop/trial/mlruns/166828946961686254/f0865d7fcb6544cc83a085096180cf15/artifacts/model
+user_id: null
+version: 2
