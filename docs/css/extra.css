@@ -44,11 +44,6 @@
     display: inline-block !important;
 }
 
-.md-header, .md-footer, .md-footer-meta {
-    color: #222;
-    background-color: white;
-}
-
 .md-nav__link--active {
     font-weight: 600;
 }

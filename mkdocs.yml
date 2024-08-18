@@ -1,5 +1,6 @@
 site_name: Insurance Cross Sell Prediction
 site_description: A machine learning projects.
+
 theme:
   name: material
   language: en
