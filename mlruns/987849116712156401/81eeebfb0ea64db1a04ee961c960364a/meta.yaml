@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/81eeebfb0ea64db1a04ee961c960364a/artifacts
+end_time: 1724158863020
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 81eeebfb0ea64db1a04ee961c960364a
+run_name: rare-fly-53
+run_uuid: 81eeebfb0ea64db1a04ee961c960364a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724158854263
+status: 3
+tags: []
+user_id: prsdm

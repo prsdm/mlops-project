@@ -1,32 +1,26 @@
-python = venv/Scripts/python
-pip = venv/Scripts/pip
+python = venv/bin/python
+pip = venv/bin/pip
 
 setup:
-	python -m venv venv
+	python3 -m venv venv
 	$(python) -m pip install --upgrade pip
 	$(pip) install -r requirements.txt
-
-dvc:
-	venv/Scripts/dvc pull
 
 run:
 	$(python) main.py
 
 mlflow:
-	venv/Scripts/mlflow ui
+	venv/bin/mlflow ui
 
 test:
 	$(python) -m pytest
 		
 clean:
-	@if exist steps\__pycache__ (rmdir /s /q steps\__pycache__)
-	@if exist __pycache__ (rmdir /s /q __pycache__)
-	@if exist .pytest_cache (rmdir /s /q .pytest_cache)
-	@if exist tests\__pycache__ (rmdir /s /q tests\__pycache__)
+	rm -rf steps/__pycache__
+	rm -rf __pycache__
+	rm -rf .pytest_cache
+	rm -rf tests/__pycache__
 
 remove:
-	@if exist venv (rmdir /s /q venv)
-	@if exist mlruns (rmdir /s /q mlruns)
-	
-
-
+	rm -rf venv
+	rm -rf mlruns

@@ -105,5 +105,5 @@ def train_with_mlflow():
         print("=====================================================\n")
         
 if __name__ == "__main__":
-    main()
-    # train_with_mlflow()
+    # main()
+    train_with_mlflow()

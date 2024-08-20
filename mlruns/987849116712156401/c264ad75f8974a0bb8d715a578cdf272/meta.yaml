@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/c264ad75f8974a0bb8d715a578cdf272/artifacts
+end_time: 1724158834597
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: c264ad75f8974a0bb8d715a578cdf272
+run_name: gaudy-mule-898
+run_uuid: c264ad75f8974a0bb8d715a578cdf272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724158825645
+status: 3
+tags: []
+user_id: prsdm
