@@ -1,4 +1,4 @@
-# Example data extraction file which generate a classification dataset using sklearn.datasets
+# Sample data extraction file which generate a classification dataset using sklearn.datasets
 from sklearn.datasets import make_classification
 import pandas as pd
 import os
