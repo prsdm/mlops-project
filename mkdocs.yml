@@ -1,5 +1,6 @@
 site_name: Insurance Cross Sell Prediction
 site_description: A machine learning projects.
+repo_url: https://github.com/prsdm/ml-project
 
 theme:
   name: material
@@ -19,3 +20,17 @@ nav:
 
 extra_css:
   - css/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/prsdm
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/prsdm17
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@prasadmahamulkar
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/r/prsdm17/ml-fastapi
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/prsdm"  target="_blank" rel="noopener">Prasad Mahamulkar</a>
