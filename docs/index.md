@@ -64,6 +64,5 @@ docker run -p 80:80 my_app
 Integrate Evidently AI to monitor the model for data drift and performance degradation:
 
 ```bash
-python monitor.py
+run monitor.ipynb file
 ```
-If this doesn't work, you can use Jupyter Notebook to run the monitoring script.
