@@ -1,6 +1,6 @@
 # Insurance Cross Sell Prediction 🏠🏥
 
-An insurance company currently provides Health Insurance to its customers and now seeks to expand its offerings by cross-selling Vehicle Insurance to its existing policyholders. The primary objective of this project is to develop a machine learning model that predicts whether customers who have purchased Health Insurance in the past year would be interested in purchasing Vehicle Insurance.
+Welcome to the Insurance Cross-Selling Prediction project! This documentation is designed to help beginners walk through the entire process, from setting up the project environment to training a machine learning model and deploying it. The goal of this project is to predict which customers are most likely to purchase additional insurance products using a machine learning model.
 
 [![GitHub](https://img.shields.io/badge/GitHub-code-blue?style=flat&logo=github&logoColor=white&color=red)](https://github.com/prsdm/ml-project) 
 
