@@ -2,6 +2,10 @@
 
 An insurance company currently provides Health Insurance to its customers and now seeks to expand its offerings by cross-selling Vehicle Insurance to its existing policyholders. The primary objective of this project is to develop a machine learning model that predicts whether customers who have purchased Health Insurance in the past year would be interested in purchasing Vehicle Insurance.
 
+[![GitHub](https://img.shields.io/badge/GitHub-code-blue?style=flat&logo=github&logoColor=white&color=red)](https://github.com/prsdm/ml-project) 
+
+<!-- [![Medium](https://img.shields.io/badge/Medium-view_article-green?style=flat&logo=medium&logoColor=white&color=green)](https://medium.com) -->
+
 ## Diagram
 Below is the architecture diagram that illustrates the flow of the project from data ingestion to model deployment:
 ![Image](mlops.jpg)
