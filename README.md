@@ -15,10 +15,11 @@ To get started with the project, follow the steps below:
 
 #### 1. Clone the Repository
 Clone the project repository from GitHub:
-
 ```bash
-git clone https://github.com/yourusername/insurance-cross-selling-prediction.git
-cd insurance-cross-selling-prediction
+git clone https://github.com/prsdm/ml-project.git
+```
+```bash
+cd ml-project
 ```
 #### 2. Set Up the Environment
 Ensure you have Python 3.8+ installed. Create a virtual environment and install the necessary dependencies:
