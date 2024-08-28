@@ -4,7 +4,7 @@ An insurance company currently provides Health Insurance to its customers and no
 
 ## Diagram
 Below is the architecture diagram that illustrates the flow of the project from data ingestion to model deployment:
-![Image](/mlops.jpg)
+![Image](mlops.jpg)
 
 ## Get Started
 To get started with the project, follow the steps below:
