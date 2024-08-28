@@ -62,9 +62,12 @@ uvicorn app:app --reload
 To build the Docker image and run the container:
 
 ```bash
-docker build -t my_app .
-docker run -p 80:80 my_app
+docker build -t my_fastapi .
 ```
+```bash
+docker run -p 80:80 my_fastapi
+```
+Once your Docker image is built, you can push it to Docker Hub, making it accessible for deployment on any cloud platform.
 #### 7. Monitor the Model
 Integrate Evidently AI to monitor the model for data drift and performance degradation:
 
