@@ -1,7 +1,6 @@
 data: 
   train_path: data/train.csv
   test_path: data/test.csv
-  future_path: data/latest.csv
 
 train:
   test_size: 0.2
