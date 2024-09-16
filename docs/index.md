@@ -1,6 +1,6 @@
 
 # Insurance Cross Sell Prediction 🏠🏥
-[![GitHub](https://img.shields.io/badge/GitHub-project_structure-blue?style=flat&logo=github&logoColor=white&color=red)](https://github.com/prsdm/cookiecutter-machine-learning) [![Medium](https://img.shields.io/badge/Medium-view_article-green?style=flat&logo=medium&logoColor=white&color=green)](https://medium.com/@prasadmahamulkar/machine-learning-operations-mlops-for-beginners-a5686bfe02b2)
+[![GitHub](https://img.shields.io/badge/GitHub-code-blue?style=flat&logo=github&logoColor=white&color=red)](https://github.com/prsdm/mlops-project) [![Medium](https://img.shields.io/badge/Medium-view_article-green?style=flat&logo=medium&logoColor=white&color=green)](https://medium.com/@prasadmahamulkar/machine-learning-operations-mlops-for-beginners-a5686bfe02b2)
 
 Welcome to the Insurance Cross-Selling Prediction project! This documentation is designed to help beginners walk through the entire process, from setting up the project environment to training a machine learning model and deploying it. The goal of this project is to predict which customers are most likely to purchase additional insurance products using a machine learning model.
 
