@@ -1,0 +1,49 @@
+
+.md-typeset h1 {
+    font-weight: 800;
+    color: #222;
+    margin-bottom: -0.25rem;
+}
+
+.md-typeset h2,
+.md-typeset h3 {
+    font-weight: 600;
+    color: #222;
+}
+
+
+.md-typeset pre {
+    display: flex;
+}
+
+.md-typeset code {
+    font-size: .8em;
+    background-color: #f5f5f5;
+    color: #193d3d;
+    min-width: 35rem;
+    flex-shrink: 1;
+}
+
+
+.md-typeset > h1, .md-typeset > h2, .md-typeset > h3, .md-typeset > p, .md-typeset > ul, .md-typeset > ol, .md-typeset > blockquote, .md-typeset > div.admonition {
+    max-width: 35rem;
+}
+
+.md-typeset blockquote {
+    font-size: 1.0rem;
+    font-weight: 300;
+}
+
+
+.newline {
+    line-height: 0 !important;
+}
+
+.inline-input,
+.default-text {
+    display: inline-block !important;
+}
+
+.md-nav__link--active {
+    font-weight: 600;
+}
